@@ -1,31 +1,38 @@
 .header
 {
     background-color: #401741 ;
-    
+    font-weight: bolder;
     padding: 10px 0px 10px 0px !important;
 
 }
 .heading
 {
     color: #ffffff !important;
-    padding-left: 80px !important;
+    padding-left: 100px !important;
+    font-weight: bolder;
 }
+.heading:hover
+{
+    color:#39ff14 !important;
+}
+.header:hover{color:#39ff14 !important;}
 .header-one
 {
     padding-left: 40px !important;
 }
+.header-one:hover{color:#39ff14 !important}
 .heading-home
 {
     color: #ffffff !important;
     padding-left: 400px !important;
-
 }
+.heading-home:hover{color: #39ff14 !important;}
 .heading-img
 {
     color: #ffffff !important;
-    padding-left: 150px !important;
-
+    padding-left: 100px !important;
 }
+.heading-img:hover{color: #39ff14 !important;}
 
 .toggle-color
 {
@@ -205,7 +212,7 @@
 {
     padding-bottom: 40px;
 }
-.options, .forex, .Corporate, .forex-portal, .big-card
+.options, .PRIMETRUS, .Corporate, .PRIMETRUS-portal, .big-card
 {
     padding-top: 50px;
 }
