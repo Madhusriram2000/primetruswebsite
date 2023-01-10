@@ -747,13 +747,15 @@
     background-color:#ffffff;
     color: black !important;
     font-weight: large;
-    padding: 7px 7px 7px 7px;
+    padding:10px 10px;
     display: inline-block;
     text-decoration:none;
 }
 #button-rounded:hover{
     background-color: #39ff14;
     color: #dee2e6;
+    text-decoration:none;
+    text-transform: uppercase;
 }
 .smmm-content svg{
     transition: transform .5s;
